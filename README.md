@@ -56,11 +56,3 @@ The study combines **SQL-based exploratory analysis**, **Python-driven statistic
 - Incorporate **demographic, accessibility, and environmental** variables to enhance model robustness.  
 - Deploy an **interactive dashboard or web application** for real-time price prediction and visualization.  
 
----
-
-## 8. Author
-**[Your Full Name]**  
-*AI Engineer & Data Analyst*  
-Research interests: **Applied AI, Predictive Modeling, Neurocomputing, Human-in-the-loop Systems**  
-📧 *[your.email@example.com]*  
-🌐 *[GitHub Profile / LinkedIn / Personal Website]*  
